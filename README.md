@@ -9,7 +9,7 @@ Follow these simple steps to get the project up and running.
 ### 1. Clone the Repository
 
 ```bash
-1. git clone https://github.com/your-username/your-repo.git
+1. git clone https://github.com/sophassamuel/Soft-Computing-Algorithms.git
 
 2. cd your-repo.
 
