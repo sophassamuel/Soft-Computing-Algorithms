@@ -13,6 +13,6 @@ Follow these simple steps to get the project up and running.
 
 2. cd your-repo.
 
-3. pip install requirements ( Check the .ipynb project files for the libraries required).
+3. pip install requirements (Check the .ipynb project files for the libraries required).
 
 4. Use jupyter notebook to run the files.
